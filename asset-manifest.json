@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36c191a4.css",
+    "main.js": "/static/js/main.b227e9bd.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/Aryan_Sarswat_2022_Resume.pdf": "/static/media/Aryan_Sarswat_2022_Resume.ad7ea26b698742097198.pdf",
+    "static/media/aryan.png": "/static/media/aryan.b94623ed776be2dfda68.png",
+    "static/media/nus.png": "/static/media/nus.ceba1a2db57250080d46.png",
+    "static/media/a-star.png": "/static/media/a-star.56c8ded712ebdf0d0eae.png",
+    "index.html": "/index.html",
+    "main.36c191a4.css.map": "/static/css/main.36c191a4.css.map",
+    "main.b227e9bd.js.map": "/static/js/main.b227e9bd.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c191a4.css",
+    "static/js/main.b227e9bd.js"
+  ]
+}
